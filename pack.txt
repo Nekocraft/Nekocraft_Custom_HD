@@ -1,1 +1,1 @@
-V2.0 Use æ–¹å—æ¦‚å¿µæè´¨(blocks,items),oCd(blocks),æµå…‰æº¢å½©æ¦‚å¿µæè´¨(gui),Inspiration_v26(gui),TouhouCraft(XPball),SummerFields(armor)
+V2.0 Use ·½¿é¸ÅÄî²ÄÖÊ(blocks,items),oCd(blocks),Á÷¹âÒç²Ê¸ÅÄî²ÄÖÊ(gui),Inspiration_v26(gui),TouhouCraft(XPball),SummerFields(armor)
